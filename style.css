@@ -2,9 +2,9 @@ body {
   background: rgb(85, 144, 189);
   background: linear-gradient(
     90deg,
-    rgba(85, 144, 189, 1) 0%,
-    rgba(108, 183, 240, 1) 54%,
-    rgba(182, 216, 242, 1) 82%
+    rgb(128, 0, 128) 0%,
+    rgb(185, 28, 120) 54%,
+    rgb(189, 106, 189) 82%
   );
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
